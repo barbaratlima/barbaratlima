@@ -1,7 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 
-
-## Oi, eu sou a Bárbara! ✨
+# Oi, eu sou a Bárbara! ✨
 
 Desenvolvedora Full Stack com mais de um ano de experiência na área após uma bem-sucedida transição de carreira. Dentre minhas habilidades estão: criatividade, resolução de problemas e aprendizado rápido, o que me permite enfrentar desafios complexos com eficiência. Minhas competências técnicas incluem:
 
@@ -37,3 +37,6 @@ Ao longo da minha trajetória profissional, tenho contribuído para a manutenç�
   
  
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
