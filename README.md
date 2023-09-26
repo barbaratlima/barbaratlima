@@ -14,9 +14,9 @@ Desenvolvedora Full Stack com mais de um ano de experiência na área após uma 
 Ao longo da minha trajetória profissional, tenho contribuído para a manutenção e desenvolvimento de projetos web e mobile utilizando tecnologias modernas e práticas ágeis. Estou constantemente buscando me atualizar e aprender novas tecnologias para aprimorar minhas habilidades e garantir que meus projetos estejam em conformidade com as melhores práticas do setor. 👩🏻‍💻 🚀 ✍🏻️ 
 
 <div align="start">
-  <a href="https://github.com/barbaratome">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaratome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaratome&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/barbaratlima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaratlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaratlima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Barbara-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
